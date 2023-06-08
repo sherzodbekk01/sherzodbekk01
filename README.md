@@ -1,4 +1,5 @@
-### Hi, I'm Sherzod 👋
+### Hi, I'm Sherzod 👋  
+<a href="https://instagram.com/sherzodbekk01/">Instagram</a>
 
 <!--
 **sherzodbekk01/sherzodbekk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
