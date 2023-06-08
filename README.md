@@ -1,5 +1,5 @@
 ### Hi, I'm Sherzod 👋  
-<a href="https://instagram.com/sherzodbekk01/">Instagram</a>
+<a href="https://instagram.com/sherzodbekk01/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2022.svg&psig=AOvVaw0pNXkhYyuF5bWrsqUfA2HI&ust=1686316906225000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjn3Mnis_8CFQAAAAAdAAAAABAE"></a>
 
 <!--
 **sherzodbekk01/sherzodbekk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
