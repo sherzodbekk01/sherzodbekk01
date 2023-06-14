@@ -1,7 +1,7 @@
 ### Hi, I'm Sherzod 👋  
 <a href="https://instagram.com/sherzodbekk01/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" width="30px"></a>
 <a href="https://telegram.com/sherzodbekk01">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" width="30px">
 </a>
 
 <!--
